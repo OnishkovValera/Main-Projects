@@ -13,3 +13,6 @@
 [submodule "TCP-exchanger"]
 	path = TCP-exchanger
 	url = https://github.com/OnishkovValera/TCP-exchanger.git
+[submodule "e-diary"]
+	path = e-diary
+	url = https://github.com/OnishkovValera/e-diary.git
