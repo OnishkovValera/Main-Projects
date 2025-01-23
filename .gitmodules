@@ -1,0 +1,15 @@
+[submodule "DragonGame/Backend"]
+	path = DragonGame/Backend
+	url = https://github.com/OnishkovValera/DragonGameBack.git
+[submodule "DragonGame/Frontend"]
+	path = DragonGame/Frontend
+	url = https://github.com/OnishkovValera/DragonGameFront.git
+[submodule "PointTracker/Backend"]
+	path = PointTracker/Backend
+	url = https://github.com/OnishkovValera/PointTrackerBack.git
+[submodule "PointTracker/Frontend"]
+	path = PointTracker/Frontend
+	url = https://github.com/OnishkovValera/PointTrackerFront.git
+[submodule "TCP-exchanger"]
+	path = TCP-exchanger
+	url = https://github.com/OnishkovValera/TCP-exchanger.git
